@@ -1,0 +1,22 @@
+[
+  {
+    "user_id": 1,
+    "email": "1@test.ru",
+    "pin": "1234"
+  },
+  {
+    "user_id": 2,
+    "email": "2@test.ru",
+    "pin": "2345"
+  },
+  {
+    "user_id": 3,
+    "email": "3@test.ru",
+    "pin": "3456"
+  },
+  {
+    "user_id": 4,
+    "email": "4@test.ru",
+    "pin": "4567"
+  }
+]
